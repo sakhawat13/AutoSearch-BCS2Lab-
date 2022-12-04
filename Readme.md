@@ -102,4 +102,13 @@ Auto_search(chunks[0],keyprhase,True)
     [WDM] - Current google-chrome version is 107.0.5304
     [WDM] - Get LATEST chromedriver version for 107.0.5304 google-chrome
     [WDM] - Driver [C:\Users\u\.wdm\drivers\chromedriver\win32\107.0.5304.62\chromedriver.exe] found in cache
-    
+   
+A separate browser would open like this:
+
+Inline-style: 
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://github.com/sakhawat13/AutoSearch-BCS2Lab-/blob/main/auto_google.jpg))   
+
+Give it some time to load all the tabs. 
+There you have it!! 
+Next time just change to the next index number when calling the function. 
+Best of luck! 
