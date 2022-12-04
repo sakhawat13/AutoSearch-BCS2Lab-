@@ -105,9 +105,7 @@ Auto_search(chunks[0],keyprhase,True)
    
 A separate browser would open like this:
 
-Inline-style: 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://github.com/sakhawat13/AutoSearch-BCS2Lab-/blob/main/auto_google.jpg))   
-
+![Like this](https://github.com/sakhawat13/AutoSearch-BCS2Lab-/blob/main/auto_google.jpg)
 Give it some time to load all the tabs. 
 There you have it!! 
 Next time just change to the next index number when calling the function. 
