@@ -107,6 +107,13 @@ A separate browser would open like this:
 
 ![Like this](https://github.com/sakhawat13/AutoSearch-BCS2Lab-/blob/main/auto_google.jpg)
 Give it some time to load all the tabs. 
+
 There you have it!! 
+
 Next time just change to the next index number when calling the function. 
+
+You can download or copy the repository. But make sure you run jupyter notebook file from inside C:Users:(your user name) directory
+
 Best of luck! 
+
+
